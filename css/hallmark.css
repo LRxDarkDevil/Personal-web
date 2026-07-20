@@ -1,0 +1,26 @@
+@import url("https://tahaadnan.is-a.dev/css/hallmark.css");
+
+/* The alias portfolio intentionally has no personal portrait. */
+.hero-archive--without-portrait {
+  grid-template-columns: minmax(0, 1fr) !important;
+}
+
+.hero-archive--without-portrait .hero-content {
+  width: min(100%, 72rem);
+  max-width: none;
+}
+
+.hero-archive--without-portrait .hero-title {
+  max-width: 14ch;
+}
+
+@media (min-width: 64rem) {
+  .hero-archive--without-portrait {
+    min-height: min(46rem, 78svh);
+    align-content: center;
+  }
+
+  .hero-archive--without-portrait .hero-lede {
+    max-width: 58ch;
+  }
+}
