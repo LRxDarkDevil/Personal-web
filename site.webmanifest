@@ -1,7 +1,7 @@
 {
-    "name": "Taha Adnan - FullStack Developer",
-    "short_name": "Taha Adnan",
-    "description": "FullStack Developer specializing in TypeScript, React, Node.js, and modern web development",
+    "name": "Dark Dare Devil | Software Developer",
+    "short_name": "Dark Dare Devil",
+    "description": "Software developer specializing in TypeScript, React, Node.js, and modern web development",
     "icons": [
         {
             "src": "./assets/android-chrome-192x192.png",
@@ -14,8 +14,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#00d4ff",
-    "background_color": "#0a0a0a",
+    "theme_color": "#F3F0E3",
+    "background_color": "#F3F0E3",
     "display": "standalone",
     "start_url": "/"
-} 
+}
